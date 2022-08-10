@@ -1,7 +1,5 @@
 # DataAnalysis
 EDA-EXPLORACION US_AIRLINES
-Primer Acercamiento de  los datos 
-
 Se realizo:  
     Análisis de los Datos
     
@@ -17,29 +15,29 @@ Se realizo:
  
 
 Tecnologia Utilizada
-  Jupyter NoteBook - Install Anaconda3
+      Jupyter NoteBook - Install Anaconda3
 
 Librerias  utilizadas
 
-  import pandas as pd
-  
-  import pandas_profiling
-  
-  import numpy as np
-  
-  import pandas as pd
-  
-  from pandas_profiling import ProfileReport
-  
-  from pandas import Series,DataFrame
-  
-  from seaborn import load_dataset
-  
-  import plotly.express as px
-  
-  import seaborn as sns
-  
-  import matplotlib.pyplot as plt
+    import pandas as pd
+    
+    import pandas_profiling
+    
+    import numpy as np
+    
+    import pandas as pd
+    
+    from pandas_profiling import ProfileReport
+    
+    from pandas import Series,DataFrame
+    
+    from seaborn import load_dataset
+    
+    import plotly.express as px
+    
+    import seaborn as sns
+    
+    import matplotlib.pyplot as plt
 
  
 
