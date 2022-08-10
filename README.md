@@ -15,7 +15,8 @@ Se realizo:
  
 
 Tecnologia Utilizada
-      Jupyter NoteBook - Install Anaconda3
+     
+     Jupyter NoteBook - Install Anaconda3
 
 Librerias  utilizadas
 
