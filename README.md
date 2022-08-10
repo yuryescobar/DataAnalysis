@@ -1,6 +1,6 @@
 # DataAnalysis
 EDA-EXPLORACION US_AIRLINES
-Se realizo:  
+### General information
     Análisis de los Datos
     
     Limpieza de los datos
@@ -12,11 +12,11 @@ Se realizo:
     Correlación de los datos
  
 
-Tecnologia Utilizada
+### Tecnologia Utilizada
      
      Jupyter NoteBook - Install Anaconda3
 
-Librerias  utilizadas
+### Librerias  utilizadas
 
     import pandas as pd
     
