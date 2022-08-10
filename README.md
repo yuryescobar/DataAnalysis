@@ -3,8 +3,6 @@ EDA-EXPLORACION US_AIRLINES
 Se realizo:  
     Análisis de los Datos
     
-    Relacionar los datos  
-    
     Limpieza de los datos
     
     Transformación 
